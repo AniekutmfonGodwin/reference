@@ -32,4 +32,8 @@
 ## install pip for python 3
     sudo apt install python3-pip
 
-## 
+## installing redis [blog to install redis](https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-redis-on-ubuntu-18-04)
+
+
+## display log from log file
+    tail -f /path/to/log-file/log-file.log
