@@ -1,0 +1,1 @@
+ # nginx websocket configuration [nginx websocket configuration](https://www.youtube.com/watch?v=3OiFxTE8xao)

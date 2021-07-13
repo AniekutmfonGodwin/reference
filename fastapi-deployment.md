@@ -1,0 +1,1 @@
+## deploying [deploy fastapi](https://www.youtube.com/watch?v=Dh5lzOwyVAY&t=472s) use nginx in place of canddy
