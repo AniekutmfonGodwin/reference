@@ -11,3 +11,6 @@
     git branch -M main
     git remote add origin https://github.com/AniekutmfonGodwin/reference.git
     git push -u origin main
+
+## how to clone git repo with a particular ssh key
+[goto link](https://stackoverflow.com/questions/6688655/select-private-key-to-use-with-git)
