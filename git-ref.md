@@ -14,3 +14,7 @@
 
 ## how to clone git repo with a particular ssh key
 [goto link](https://stackoverflow.com/questions/6688655/select-private-key-to-use-with-git)
+
+### 2
+    `ssh-agent bash -c 'ssh-add ~/.ssh/id_rsa_test; git clone git@github.com:example/example-repo.git <folder name>'
+`
