@@ -37,3 +37,8 @@
 
 ## display log from log file
     tail -f /path/to/log-file/log-file.log
+
+
+## install selenium process
+
+[follow link](https://towardsdatascience.com/how-to-setup-selenium-on-a-linux-vm-cd19ee47d922)
