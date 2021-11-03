@@ -18,3 +18,7 @@
 ### 2
     `ssh-agent bash -c 'ssh-add ~/.ssh/id_rsa_test; git clone git@github.com:example/example-repo.git <folder name>'
 `
+
+
+## How to configure default ssh for a repo
+[goto link](https://dev.to/web3coach/how-to-configure-a-local-git-repository-to-use-a-specific-ssh-key-4aml)
