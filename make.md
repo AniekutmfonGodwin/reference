@@ -1,4 +1,4 @@
-#How to setup make in Mac
+# How to setup make in Mac
 
 * open /etc/bashrc
   
