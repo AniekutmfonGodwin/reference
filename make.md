@@ -1,4 +1,4 @@
-# How to setup make in Mac
+# How to setup Autocomplete for  Makefile in Mac
 
 * open /etc/bashrc
   
